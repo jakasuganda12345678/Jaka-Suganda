@@ -26,7 +26,7 @@ Saya adalah seorang mahasiswa aktif fakultas Teknik Informatika, yang tertarik p
 
 ## 🌐 Social Media
 - 📧 Email: jakasuganda123@email.com
-- 🔗 LinkedIn: https://linkedin.com/
+- 🔗 LinkedIn:[ https://linkedin.com/](https://www.linkedin.com/in/jaka-suganda-603b3a3a6/)
 - 🐦 instagram:  jakasgnda
 
 ---
