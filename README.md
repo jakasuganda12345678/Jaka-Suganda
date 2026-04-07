@@ -1,7 +1,7 @@
-# 👋 Halo, Saya Jaka Suganda
+# 👋 Halo, Saya Jaka Suganda 
 
 ## 🚀 Introduction
-Saya adalah mahasiswa Sistem Informasi yang tertarik pada dunia teknologi, khususnya dalam pengembangan aplikasi dan UI/UX.
+Saya adalah seorang mahasiswa aktif fakultas Teknik Informatika, yang tertarik pada dunia teknologi dan IT di erah modern ini , khususnya dalam pengembangan aplikasi dan UI/UX.
 
 ---
 
@@ -25,9 +25,9 @@ Saya adalah mahasiswa Sistem Informasi yang tertarik pada dunia teknologi, khusu
 ---
 
 ## 🌐 Social Media
-- 📧 Email: jakasuganda@email.com
+- 📧 Email: jakasuganda123@email.com
 - 🔗 LinkedIn: https://linkedin.com/
-- 🐦 Twitter: https://twitter.com/
+- 🐦 instagram:  jakasgnda
 
 ---
 
