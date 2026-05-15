@@ -15,7 +15,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Student at Politeknik Negeri Batam  
+- 🎓Universitas Islam Sumatera Utara
 - 📱 Focus on Flutter & Mobile Development  
 - 🎨 UI/UX Enthusiast  
 - 🎮 Gamer + Idea Explorer  
