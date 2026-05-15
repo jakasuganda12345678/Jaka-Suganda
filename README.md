@@ -18,7 +18,6 @@
 - 🎓Universitas Islam Sumatera Utara
 - 📱 Focus on Flutter & Mobile Development  
 - 🎨 UI/UX Enthusiast  
-- 🎮 Gamer + Idea Explorer  
 - 💡 Currently building real projects  
 
 ---
