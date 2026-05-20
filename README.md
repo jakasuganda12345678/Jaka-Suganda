@@ -1,69 +1,75 @@
 <h1 align="center">Hi 👋, I'm Jaka Suganda</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Flutter+Developer;UI%2FUX+Enthusiast;Mobile+App+Learner;Always+Building+Something+Cool+🚀" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=header"/>
-</p>
+<h3 align="center">
+Frontend Developer • Flutter Developer • UI/UX Enthusiast
+</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Student at **Politeknik Negeri Batam**
-- 📱 Learning **Flutter & Mobile Development**
-- 🎨 Interested in **UI/UX Design**
-- 💡 Love creating modern and interactive apps
-- 🎮 Gamer & tech explorer
+💻 Saya fokus membangun aplikasi modern menggunakan Flutter dan teknologi web.
+
+🎨 Menyukai UI/UX Design dengan tampilan clean dan interaktif.
+
+📱 Sedang mengembangkan project mobile apps dan website responsive.
 
 ---
 
-## ⚡ Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,html,css,js,figma,git,github,vscode" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,js,figma,github,vscode"/>
+
 </p>
+
+---
+
+## 📌 Featured Projects
+
+### 🩺 GluCare Apps
+Aplikasi monitoring kesehatan dan gula darah berbasis Flutter.
+
+🔗 Repository:
+https://github.com/Jasu228/GluCareApps
+
+---
+
+### 🎨 UI Mobile Design
+Kumpulan desain UI modern menggunakan Figma.
+
+---
+
+### 📱 Flutter Dashboard
+Dashboard responsive menggunakan Flutter dan Firebase.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jaka-Suganda&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaka-Suganda&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jasu228&show_icons=true&theme=tokyonight"/>
 
-## 🐍 Contribution Snake
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasu228&layout=compact&theme=tokyonight"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jaka-Suganda/Jaka-Suganda/output/snake.svg"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/Jaka-Suganda">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<p align="left">
 
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<a href="https://github.com/Jasu228">
+GitHub
+</a>
 
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
 <p align="center">
-  ✨ <i>Keep Learning, Keep Building 🚀</i>
+✨ Thank you for visiting my profile ✨
 </p>
