@@ -39,8 +39,6 @@
 <p>
   <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter"/>
   <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart"/>
- <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase"/>
-
   
 ⚙️ Backend 
 
@@ -48,6 +46,7 @@
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php"/>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase"/>
 </p>
 
 
