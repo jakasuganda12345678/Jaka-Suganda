@@ -29,7 +29,10 @@
 ## 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react"/>
 </p>
 
 ---
@@ -37,7 +40,9 @@
 ## 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter"/>
+  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart"/>
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase"/>
 </p>
 
 ---
@@ -45,7 +50,9 @@
 ## ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,python" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"/>
 </p>
 
 ---
@@ -53,7 +60,8 @@
 ## 🗄 Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb"/>
 </p>
 
 ---
@@ -61,7 +69,10 @@
 ## 🛠 Tools & Design
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma"/>
+  <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode"/>
 </p>
 # 🚀 Featured Projects
 
