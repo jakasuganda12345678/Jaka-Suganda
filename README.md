@@ -53,6 +53,7 @@
 <p>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql"/>
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 🛠 Tools & Design
 
