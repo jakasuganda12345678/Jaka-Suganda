@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode"/>
 </p>
 
-
+---
 
 # 🚀 Featured Projects
 
