@@ -26,7 +26,7 @@
 
 # ⚡ Tech Stack
 
-## 🎨 Frontend Development
+🎨 Frontend 
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5"/>
@@ -35,13 +35,13 @@
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react"/>
 </p>
 
-📱 Mobile Development
+📱 Mobile 
 <p>
   <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter"/>
   <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart"/>
   <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase"/>
 </p>
-⚙️ Backend Development
+⚙️ Backend 
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js"/>
