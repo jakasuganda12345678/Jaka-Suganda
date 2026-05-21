@@ -83,7 +83,7 @@ https://github.com/Jasu228/GluCareApps
 
 <td width="50%">
 
-<img src="https://cdn.dribbble.com/users/1787323/screenshots/14146957/media/4c1e6b3f6c4f5d6f7e0f5bdb6c950137.gif" width="100%">
+[<img src="https://cdn.dribbble.com/users/1787323/screenshots/14146957/media/4c1e6b3f6c4f5d6f7e0f5bdb6c950137.gif" width="100%">](https://github.com/Fadlan-Anwar/glucare_app)
 
 </td>
 </tr>
