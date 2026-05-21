@@ -139,8 +139,8 @@ https://github.com/Jasu228/GluCareApps
 
 <p align="center">
 
-[<img src="https://komarev.com/ghpvc/?username=Jasu228&label=Profile%20Views&color=38bdf8&style=for-the-badge"/>](https://portofolio-two-roan-27.vercel.app/)
-
+[[<img src="https://komarev.com/ghpvc/?username=Jasu228&label=Profile%20Views&color=38bdf8&style=for-the-badge"/>](https://portofolio-two-roan-27.vercel.app/)
+](https://portofolio-two-roan-27.vercel.app/)
 </p>
 
 ---
