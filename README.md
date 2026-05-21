@@ -77,7 +77,7 @@ Aplikasi monitoring kesehatan dan gula darah modern menggunakan Flutter & Fireba
 - Responsive Design
 
 🔗 Repo:
-https://github.com/Jasu228/GluCareApps
+[https://github.com/Jasu228/GluCareApps](https://github.com/Fadlan-Anwar/glucare_app)
 
 </td>
 
